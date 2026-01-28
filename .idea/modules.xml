@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/src8/1DArrayByKunalKushwaa.iml" filepath="$PROJECT_DIR$/src8/1DArrayByKunalKushwaa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src9/2DArrayOrMultiDimensionalArraysByKunalKushwaa.iml" filepath="$PROJECT_DIR$/src9/2DArrayOrMultiDimensionalArraysByKunalKushwaa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src11/ArrayClassesNotes.iml" filepath="$PROJECT_DIR$/src11/ArrayClassesNotes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src10/ArrayListByKunalKushwaa.iml" filepath="$PROJECT_DIR$/src10/ArrayListByKunalKushwaa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src7.1/ArraysByCollegeWallah.iml" filepath="$PROJECT_DIR$/src7.1/ArraysByCollegeWallah.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src3/ConditionalsInJava.iml" filepath="$PROJECT_DIR$/src3/ConditionalsInJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src12/IntroToOOP[ClassesAndObjects]ByCollegeWallah.iml" filepath="$PROJECT_DIR$/src12/IntroToOOP[ClassesAndObjects]ByCollegeWallah.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/JavaBasics.iml" filepath="$PROJECT_DIR$/src/JavaBasics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src2/JavaOperators.iml" filepath="$PROJECT_DIR$/src2/JavaOperators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src4/LoopsInJava.iml" filepath="$PROJECT_DIR$/src4/LoopsInJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src6/LoopsQuestionsOnPatternPrinting.iml" filepath="$PROJECT_DIR$/src6/LoopsQuestionsOnPatternPrinting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src7/MathLibraries.iml" filepath="$PROJECT_DIR$/src7/MathLibraries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src13/Methods/FunctionsInJava.iml" filepath="$PROJECT_DIR$/src13/Methods/FunctionsInJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src5/QuestionsOnLoops.iml" filepath="$PROJECT_DIR$/src5/QuestionsOnLoops.iml" />
+    </modules>
+  </component>
+</project>
