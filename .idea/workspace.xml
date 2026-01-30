@@ -28,9 +28,6 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../" />
     <option name="SIGN_OFF_COMMIT" value="true" />
   </component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="77f7da7c-bce4-478d-9c0d-9e0cb05ee843" />
-  </component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
@@ -118,7 +115,7 @@
       <workItem from="1769626724282" duration="8270000" />
       <workItem from="1769659888359" duration="10857000" />
       <workItem from="1769695766527" duration="13881000" />
-      <workItem from="1769754278238" duration="1860000" />
+      <workItem from="1769754278238" duration="3291000" />
     </task>
     <servers />
   </component>
