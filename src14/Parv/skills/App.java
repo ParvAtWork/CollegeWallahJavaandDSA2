@@ -1,7 +1,7 @@
 package Parv.skills;
 
 public class App {
-    public void show(){
+    public static void show(){
         System.out.println("Hello App");
     }
 
