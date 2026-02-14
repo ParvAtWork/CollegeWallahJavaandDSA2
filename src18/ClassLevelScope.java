@@ -13,9 +13,8 @@ class Algebra {
     int sub(){
          return a - b;
     }
-    int mul(){
-         return a*b;
-    }
+    int mul(){return a*b;}
+
 }
 
 

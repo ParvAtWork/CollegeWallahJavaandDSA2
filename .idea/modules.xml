@@ -16,12 +16,14 @@
       <module fileurl="file://$PROJECT_DIR$/src4/LoopsInJava.iml" filepath="$PROJECT_DIR$/src4/LoopsInJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/src6/LoopsQuestionsOnPatternPrinting.iml" filepath="$PROJECT_DIR$/src6/LoopsQuestionsOnPatternPrinting.iml" />
       <module fileurl="file://$PROJECT_DIR$/src7/MathLibraries.iml" filepath="$PROJECT_DIR$/src7/MathLibraries.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src18/MethodsAndScope.iml" filepath="$PROJECT_DIR$/src18/MethodsAndScope.iml" />
       <module fileurl="file://$PROJECT_DIR$/src13/MethodsOrFunctionInJava.iml" filepath="$PROJECT_DIR$/src13/MethodsOrFunctionInJava.iml" />
       <module fileurl="file://$PROJECT_DIR$/src13/MethodsOrFunctionUsingJavaByCollegeWallah.iml" filepath="$PROJECT_DIR$/src13/MethodsOrFunctionUsingJavaByCollegeWallah.iml" />
       <module fileurl="file://$PROJECT_DIR$/src15/PackageCreationPractice.iml" filepath="$PROJECT_DIR$/src15/PackageCreationPractice.iml" />
       <module fileurl="file://$PROJECT_DIR$/src14/PackagesInJavaByCollegeWallah.iml" filepath="$PROJECT_DIR$/src14/PackagesInJavaByCollegeWallah.iml" />
       <module fileurl="file://$PROJECT_DIR$/src17/PracticingAccessModifiersWithThePackages.iml" filepath="$PROJECT_DIR$/src17/PracticingAccessModifiersWithThePackages.iml" />
       <module fileurl="file://$PROJECT_DIR$/src5/QuestionsOnLoops.iml" filepath="$PROJECT_DIR$/src5/QuestionsOnLoops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src7.2/TraversingThroughAnArray.iml" filepath="$PROJECT_DIR$/src7.2/TraversingThroughAnArray.iml" />
     </modules>
   </component>
 </project>
