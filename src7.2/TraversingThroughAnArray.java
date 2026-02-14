@@ -3,6 +3,7 @@
 // Language: Hinglish Notes
 // =======================================
 
+//Note -: Traversal = ek array ke har element ko ek‑ek karke access karna.
 public class TraversingThroughAnArray {
     public static void main(String[] args) {
         /*
@@ -57,9 +58,10 @@ public class TraversingThroughAnArray {
          */
 
         // ---------------------------------------
-        // Example 3: Traversal using for-each loop
+        // Example 3: Traversal using for-each loop(This looping is also called Enhanced looping)
         // ---------------------------------------
         System.out.println("\nTraversal using for-each loop:");
+        //Yaha pa jo humara pass arr array hai uska haar ek element ko value mein daal raha hai or value ko print kara raha hai.
         for (int element : arr) {
             System.out.println("Value: " + element);
         }
