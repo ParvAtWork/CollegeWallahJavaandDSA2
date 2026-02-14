@@ -16,7 +16,6 @@ class LenghtUsing{
 
 public class LengthOperationInArrays {
     public static void main(String[] args){
-        LenghtUsing obj1 = new LenghtUsing();
         LenghtUsing.CheckLength();
 
     }
