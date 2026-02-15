@@ -1,4 +1,5 @@
-//Note -: Break and Continue ha masha loops ka anadar hi aha gha vo bhi if condition ka sath or neccha.Always pay attention in the increment operators in the while and do while loops vo continue ya break sa phele likha jaye gha or loop close ka baad sop ka baad likha jaye gha.
+
+//Note -: Break and Continue hamesha loops ka anadar hi aha gha vo bhi if condition ka sath or neccha.Always pay attention in the increment operators in the while and do while loops vo continue ya break sa phele likha jaye gha or loop close ka baad sop ka baad likha jaye gha.
 
 import java.util.*;
 //import java.util.Scanner;
@@ -31,3 +32,30 @@ public class LabelCaseInLoops {
     }
 }
 
+// Explnation of the code
+//Normally continue sirf current loop iteration ko skip karta hai.
+//
+//Lekin agar tum continue outer likhte ho, toh iska matlab hai:
+//“current inner loop ko turant chhodo aur outer loop ke agle iteration par chale jao.”
+//
+//i = 1, j = 1 → print
+//
+//        i = 1, j = 2 → print
+//
+//        i = 1, j = 3 → condition true → continue outer → inner loop skip → outer loop next iteration (i = 2)
+//
+//Fir i = 2 ke liye j loop start hoga.
+//
+//Har baar jab j == 3 hoga, inner loop turant chhod diya jaayega aur outer loop next i par jump karega.
+
+//Output of the code
+//i = 1, j = 1
+//i = 1, j = 2
+//i = 2, j = 1
+//i = 2, j = 2
+//i = 3, j = 1
+//i = 3, j = 2
+//i = 4, j = 1
+//i = 4, j = 2
+//i = 5, j = 1
+//i = 5, j = 2

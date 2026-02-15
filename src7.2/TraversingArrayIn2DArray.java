@@ -14,6 +14,6 @@ public class TraversingArrayIn2DArray {
             }
             System.out.println();
         }
-//        System.out.println();
+
     }
 }
