@@ -18,6 +18,7 @@ public class PracticeInArrayList {
         gettingAnElementFromAnIndex(List);
         updatingElementInTheArray(List);
         updationInUnique(List);
+        removingElementFromTheUserGivenIndex(List);
 
     }
     static void addingElementsInList(ArrayList<Integer> List , int value){
@@ -55,4 +56,13 @@ public class PracticeInArrayList {
         System.out.println("List after all value get Updated: ");
         System.out.println(List);
     }
+    static void removingElementFromTheUserGivenIndex(ArrayList<Integer> List){
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter the index number fom which you want to delete the element ");
+        int IndexValueToRemove = sc.nextInt();
+        int updatedListValue = List.remove(IndexValueToRemove-1);
+        System.out.println("The value which is removed from the Array is " + updatedListValue);
+        System.out.println(List);
+    }
+
 }
