@@ -12,9 +12,10 @@ public class PerformingAllOperationsInArrayList {
         for (int i = 0; i < n; i++) {
             System.out.println("Enter the value for the position in you List " + (i + 1));
             int value = sc.nextInt();
-            AddingAnValue(List, value); //Ya yada rakho jab koyi bhi value tum loop mein declare karo srif loop mein tab tum tab tum function call bhi srif loop mein karo gha jaha tak uski range hai.
+            AddingAnValue(List, value); //Ya yaad rakho jab koyi bhi value tum loop mein declare karo srif loop mein tab tum function call bhi srif loop mein karo gha jaha tak uski range hai.
         }
         System.out.println(List);
+        addingNewIndex(List);
         GettingTheUserAskedValue(List);
         UpdatingElementInArray(List);
         removeElementFromGivenIndex(List);
@@ -30,6 +31,18 @@ public class PerformingAllOperationsInArrayList {
         List.add(value);
         System.out.println("Value " + value + " is successfully added: ");
     }
+
+    static void addingNewIndex(ArrayList<Integer> List) {
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter the index number for which you want to enter the new value: ");
+        int indexCreation = sc.nextInt();
+        System.out.println("Enter the value for new index: ");
+        int valueAtIndex = sc.nextInt();
+        List.add(indexCreation, valueAtIndex);
+        System.out.println("The new List is: ");
+        System.out.println(List);
+    }
+
 
     static void GettingTheUserAskedValue(ArrayList<Integer> List) {
         Scanner sc = new Scanner(System.in);
@@ -99,3 +112,5 @@ public class PerformingAllOperationsInArrayList {
        }
     }
 }
+
+
